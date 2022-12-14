@@ -1,8 +1,8 @@
 {
-    "name": "romaricdrigon/metayaml",
+    "name": "feeh27/metayaml",
     "type": "library",
     "description": "Using [Yaml|Xml|json] schemas files to validate [Yaml|Xml|json] ",
-    "homepage": "http://github.com/romaricdrigon/MetaYaml",
+    "homepage": "https://github.com/feeh27/MetaYaml",
     "keywords": ["yaml", "xml", "json", "validation", "schema"],
     "license": "MIT",
     "autoload": {
